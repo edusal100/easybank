@@ -26,13 +26,11 @@
         left: 0px;
         background-image: linear-gradient($darkBlue, transparent);
 
-        &.fade-in{
-            display: block;
-        }
-        &.fade-out {
-            display: none;
-        }
+    }
 
+    nav {
+        padding-top: 1.0625rem;
+        padding-bottom: 1.0625rem;
     }
 
     &_logo{
